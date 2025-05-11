@@ -87,7 +87,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "duration": "2h 24m",
     },
     {
-      "image": "assets/images/Dune.jpg",
+      "image": "assets/images/dune.jpg",
       "title": "Dune",
       "year": "2021",
       "duration": "2h 35m",
