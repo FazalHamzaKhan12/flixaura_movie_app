@@ -1,3 +1,4 @@
+import 'package:flixaura_movie_app/screens/ViewAll_Section/view_all_comedy.dart';
 import 'package:flutter/material.dart';
 
 class ComedyMovies extends StatelessWidget {
@@ -70,7 +71,11 @@ class ComedyMovies extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 24.0),
               child: GestureDetector(
-                onTap: () {},
+                onTap:
+                    () => Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => ViewAllComedy()),
+                    ),
                 child: const Text(
                   "View All",
                   style: TextStyle(

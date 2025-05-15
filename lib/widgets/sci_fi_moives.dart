@@ -1,4 +1,4 @@
-import 'package:flixaura_movie_app/screens/view_all_scifi.dart';
+import 'package:flixaura_movie_app/screens/ViewAll_Section/view_all_scifi.dart';
 import 'package:flutter/material.dart';
 
 class SciFiMoives extends StatelessWidget {
