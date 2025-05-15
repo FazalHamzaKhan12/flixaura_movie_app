@@ -1,4 +1,4 @@
-import 'package:flixaura_movie_app/home_screen.dart';
+import 'package:flixaura_movie_app/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class StartScreen extends StatelessWidget {
