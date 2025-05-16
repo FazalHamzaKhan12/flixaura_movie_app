@@ -33,7 +33,6 @@ class _SliderHomeState extends State<SliderHome> {
   @override
   Widget build(BuildContext context) {
     return Column(
-      // ✅ Wrap widgets inside Column
       children: [
         const SizedBox(height: 10),
         carousel.CarouselSlider(

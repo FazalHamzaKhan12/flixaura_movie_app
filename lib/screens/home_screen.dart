@@ -1,8 +1,10 @@
+import 'package:flixaura_movie_app/screens/video_screen.dart';
 import 'package:flixaura_movie_app/widgets/comedy_movies.dart';
 import 'package:flixaura_movie_app/widgets/sci_fi_moives.dart';
 import 'package:flixaura_movie_app/widgets/slider_home.dart';
 import 'package:flixaura_movie_app/widgets/trending_moives.dart';
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -73,6 +75,21 @@ class _HomeScreenState extends State<HomeScreen> {
                           ),
                         ),
                       ],
+                    ),
+                    SizedBox(width: 220),
+                    InkWell(
+                      onTap:
+                          () => Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => VideoScreen(),
+                            ),
+                          ),
+                      child: Icon(
+                        FontAwesomeIcons.playCircle,
+                        color: Colors.white,
+                        size: 34,
+                      ),
                     ),
                   ],
                 ),
