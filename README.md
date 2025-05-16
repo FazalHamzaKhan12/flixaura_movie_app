@@ -1,22 +1,23 @@
-🎬 FlixAura – Movie Streaming App UI in Flutter
-FlixAura is a beautifully designed movie streaming app built entirely in Flutter, inspired by modern OTT platforms like Netflix and Prime Video. This project replicates a rich cinematic user experience, complete with interactive movie cards, genre filtering, smooth animations, and a built-in video player. Perfect for anyone looking to showcase Flutter UI/UX skills in a client-ready format.
+🎥 FlixAura – Flutter Movie Streaming UI App
+FlixAura is a stunning and fully responsive movie streaming UI app built using Flutter, inspired by real-world platforms like Netflix and HBO Max. This project brings together sleek UI design, smooth animations, modular Flutter code, and video player integration — all based on a beautiful Figma design.
 
-✨ Features
-🎥 Now Showing Carousel with smooth auto-scroll and page indicators
-📂 Genre-based Sections (Action, Comedy, Sci-Fi, etc.)
-💜 Favorite Toggle System with heart animation
-📺 In-App Video Player with fullscreen toggle and playback controls
-🧠 ReadMoreText integration for expanding movie descriptions
-🎬 Cast Avatars UI in the detailed movie screen
-📱 Fully responsive for mobile view, built on clean modular Flutter code
-🎨 Based on Figma Design: FlixAura UI
+Designed to leave a lasting impression, FlixAura is perfect for demonstrating clean code, creative UI building, and modern Flutter techniques.
 
-📸 Screenshots
-Onboarding screen with a stunning movie grid
-Home screen featuring Now Showing, Trending, and Genre rows
-Movie detail page with embedded video playback and full info
+🚀 Key Highlights
+🎞️ Now Showing Section with smooth carousel and page indicators
 
-📁 Folder Structure Highlights
-screens/ – Main and sub-screens like Home, Video Details
-widgets/ – Reusable UI widgets like SliderHome, TrendingMovies
-assets/ – Custom images and thumbnails (not included in repo by default)
+🎬 Genre-Based Categories – Action, Adventure, Sci-Fi, etc.
+
+❤️ Favorite Button with toggle animation
+
+📺 Built-in Video Player with fullscreen support and playback controls
+
+📖 Expandable Movie Descriptions using ReadMoreText
+
+👥 Cast Avatar Row for each movie detail screen
+
+🔄 Smooth Transitions & UI Animations
+
+🎯 Figma to Flutter Accurate UI Implementation
+
+📱 Optimized for all screen sizes
