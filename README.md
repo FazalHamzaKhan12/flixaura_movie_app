@@ -21,3 +21,6 @@ Designed to leave a lasting impression, FlixAura is perfect for demonstrating cl
 🎯 Figma to Flutter Accurate UI Implementation
 
 📱 Optimized for all screen sizes
+![image](https://github.com/user-attachments/assets/99328835-57e5-459d-986d-079424daea38)
+
+figma design link: http://figma.com/design/OixeTSk7PNd5JCbmnkfkSZ/FlixAura-Movie-Streaming-App-UI--Community-?node-id=0-1&p=f&t=LTBVXncYFt0Wu7Co-0
