@@ -1,16 +1,22 @@
-# flixaura_movie_app
+🎬 FlixAura – Movie Streaming App UI in Flutter
+FlixAura is a beautifully designed movie streaming app built entirely in Flutter, inspired by modern OTT platforms like Netflix and Prime Video. This project replicates a rich cinematic user experience, complete with interactive movie cards, genre filtering, smooth animations, and a built-in video player. Perfect for anyone looking to showcase Flutter UI/UX skills in a client-ready format.
 
-A new Flutter project.
+✨ Features
+🎥 Now Showing Carousel with smooth auto-scroll and page indicators
+📂 Genre-based Sections (Action, Comedy, Sci-Fi, etc.)
+💜 Favorite Toggle System with heart animation
+📺 In-App Video Player with fullscreen toggle and playback controls
+🧠 ReadMoreText integration for expanding movie descriptions
+🎬 Cast Avatars UI in the detailed movie screen
+📱 Fully responsive for mobile view, built on clean modular Flutter code
+🎨 Based on Figma Design: FlixAura UI
 
-## Getting Started
+📸 Screenshots
+Onboarding screen with a stunning movie grid
+Home screen featuring Now Showing, Trending, and Genre rows
+Movie detail page with embedded video playback and full info
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📁 Folder Structure Highlights
+screens/ – Main and sub-screens like Home, Video Details
+widgets/ – Reusable UI widgets like SliderHome, TrendingMovies
+assets/ – Custom images and thumbnails (not included in repo by default)
